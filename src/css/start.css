@@ -1,0 +1,59 @@
+.start {
+    background: #17baef;
+    color: #fff;
+    padding-top: 150px;
+}
+  
+.start .title {
+    font-size: 98px;
+    color: #074f66;
+    margin-top: 0;
+}
+
+  
+  .start .intro {
+    font-size: 28px;
+    max-width: 680px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  
+  .start .btns .btn {
+    margin-right: 15px;
+    font-size: 18px;
+    padding: 8px 30px;
+  }
+  
+  .start .meta {
+    margin-top: 120px;
+    margin-bottom: 30px;
+    color: #0a7396;
+  }
+  
+  .start .meta li {
+    margin-right: 15px;
+  }
+  
+  .start .meta a {
+    color: #0a7396;
+  }
+  
+  .start .meta a:hover {
+    color: #074f66;
+  }
+  
+  .start .social-media {
+    background: #0c86ae;
+    padding: 10px 0;
+    margin: 0 auto;
+  }
+  
+  .start .social-media li {
+    margin-top: 15px;
+  }
+  
+  .start .social-media li.facebook-like {
+    margin-top: 0;
+    position: relative;
+    top: -5px;
+  }

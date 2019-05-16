@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TML/static/css/main.327f40f2.chunk.css",
+    "main.js": "/TML/static/js/main.0484a680.chunk.js",
+    "main.js.map": "/TML/static/js/main.0484a680.chunk.js.map",
+    "runtime~main.js": "/TML/static/js/runtime~main.2684b5a5.js",
+    "runtime~main.js.map": "/TML/static/js/runtime~main.2684b5a5.js.map",
+    "static/css/2.18b4588e.chunk.css": "/TML/static/css/2.18b4588e.chunk.css",
+    "static/js/2.16068a75.chunk.js": "/TML/static/js/2.16068a75.chunk.js",
+    "static/js/2.16068a75.chunk.js.map": "/TML/static/js/2.16068a75.chunk.js.map",
+    "index.html": "/TML/index.html",
+    "precache-manifest.21c19974aafac3d46aa1bf7471afb850.js": "/TML/precache-manifest.21c19974aafac3d46aa1bf7471afb850.js",
+    "service-worker.js": "/TML/service-worker.js",
+    "static/css/2.18b4588e.chunk.css.map": "/TML/static/css/2.18b4588e.chunk.css.map",
+    "static/css/main.327f40f2.chunk.css.map": "/TML/static/css/main.327f40f2.chunk.css.map",
+    "static/media/all.min.css": "/TML/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
